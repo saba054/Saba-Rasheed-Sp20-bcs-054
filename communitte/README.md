@@ -1,16 +1,10 @@
 # notic
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![C](https://github.com/saba054/Saba-Rasheed-Sp20-bcs-054/assets/126846792/5966bd41-ebf4-4e95-bce4-a9902c6060e6)
+![cc](https://github.com/saba054/Saba-Rasheed-Sp20-bcs-054/assets/126846792/10791802-7bec-4155-97f6-89f0020de5f5)
+![C1](https://github.com/saba054/Saba-Rasheed-Sp20-bcs-054/assets/126846792/d9ebd84a-5cb6-4739-8fb3-2c3f8989d957)
+![CA1](https://github.com/saba054/Saba-Rasheed-Sp20-bcs-054/assets/126846792/cc6a7874-18f9-4c56-a94a-4ec457d78691)
+![CA1 1](https://github.com/saba054/Saba-Rasheed-Sp20-bcs-054/assets/126846792/abcfaa3f-36cc-481a-b276-969bce8c6986)
+![CA1 2](https://github.com/saba054/Saba-Rasheed-Sp20-bcs-054/assets/126846792/9fd977d3-2cec-4f14-8818-56f5e4f2d427)
+![CA1 3](https://github.com/saba054/Saba-Rasheed-Sp20-bcs-054/assets/126846792/9080f4e2-df22-4633-a41e-0b3906d7416c)
+![CA1 4](https://github.com/saba054/Saba-Rasheed-Sp20-bcs-054/assets/126846792/00b19a76-fb9e-4af7-97a4-b2ddcf32a0c8)
+![C2](https://github.com/saba054/Saba-Rasheed-Sp20-bcs-054/assets/126846792/9754b9f4-56de-44e1-b337-c9049dd00633)
